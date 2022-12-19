@@ -1,0 +1,12 @@
+title: Genoa API Protocol Docs
+description: Documentation for the API Protocol
+theme: just-the-docs
+color_scheme: dark
+
+url: "project-genoa.github.io/api-protocol-docs/"
+
+#kramdown:
+#  input: Kramdown
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
