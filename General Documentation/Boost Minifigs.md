@@ -41,6 +41,8 @@ Minecraft Earth only checks the Base64 string itself so it can be spoofed even i
 Boost Minis only need to be NFC tags which point to a URL with the format: `pid.mattel/AgBB....U84rAF6jiQkErLvS02eAAAAH` (Using Pigging Out Pig as an example)
 
 The four dots will need to be replaced with the boost's ID converted to Base64, as provided in this table:
+
+
 | Boost Figurine         | Boost Type                             | Boost ID   | Boost ID (Base64) |
 |------------------------|----------------------------------------|------------|-------------------|
 | Seeking Dolphin        | Tappable Interaction Radius +35m - 10m | 1102246031 |                   |
@@ -66,5 +68,6 @@ The four dots will need to be replaced with the boost's ID converted to Base64, 
 | Healing Witch          | Max Health +10% - 10m                  | 1102218105 |                   |
 | Repairing Villager     | Tappable Interaction Radius +35m - 10m | 1102246467 |                   |
 | Pigging Out Pig        | Max Health +10% - 10m                  | 1102246503 |                   |
+
 
 (Base64 values to be added...)
