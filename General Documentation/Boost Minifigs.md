@@ -22,11 +22,16 @@ As an example, we'll be looking at "Pigging Out Pig": `pid.mattel/AgBBsvJnU84rAF
 
 `02 00` `41 B2 F2 67` 53 `CE 2B 00 5E` a3 89 09 `04 AC BB D2 D3 67 80` 00 00 07
 
-it is split up into 3 groups:
-
+it is split up into 4 groups:
+<br/>
+<br/>
+<br/>
 `02 00` - HEADER
+
 `41 B2 F2 67` - The Boost ID as defined in JSON encoded as an unsigned 32-bit big-endian integer (1102246503 - "pigging out pig")
+
 `CE 2B 00 5E` - Date and time of manufacture as little-endian UNIX 32-bit datetime or smth idk
+
 `04 AC BB D2 D3 67 80` - The 7-byte UID of the NFC tag (NTAG 213)
 the rest is unknown
 
