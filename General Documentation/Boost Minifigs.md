@@ -18,8 +18,10 @@ the B64 is a 24bit binary content encoded in base64.
 
 ## Format Description
 As an example, we'll be looking at "Pigging Out Pig": `pid.mattel/AgBBsvJnU84rAF6jiQkErLvS02eAAAAH`
-
-
+<br/>
+Decoded from Base64 it's:
+<br/>
+<br/>
 `02 00` `41 B2 F2 67` 53 `CE 2B 00 5E` a3 89 09 `04 AC BB D2 D3 67 80` 00 00 07
 
 it is split up into 4 groups:
