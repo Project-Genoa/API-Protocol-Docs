@@ -73,3 +73,8 @@ The four dots will need to be replaced with the boost's ID converted to Base64, 
 
 
 (Base64 values to be added...)
+
+---
+A lot of the information on this page was kindly contributed by:
+- The Project Earth Team
+- https://www.reddit.com/r/NFC/comments/fka46r/comment/fkst0hq/?utm_source=share&utm_medium=web2x&context=3
