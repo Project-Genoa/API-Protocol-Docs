@@ -7,7 +7,7 @@ layout: default
 # /1/api/v1.1/features
 
 ## Description
-An endpoint
+The endpoint used to determine whether certain features should appear to be enabled on the client. If any of these are false, the feature will simply be disabled with the button (if applicable) being greyed-out and a "we're having trouble at the moment" modal when used.
 
 ### GET Arguments
 
@@ -64,6 +64,8 @@ An endpoint
 ~~~
 
 ### result
+
+[tba]
 
 | Parameter                          | Example Value | Description |
 |------------------------------------|---------------|-------------|
